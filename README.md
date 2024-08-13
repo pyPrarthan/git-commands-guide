@@ -4,13 +4,13 @@ Welcome to the **git-essentials** repository! 🚀 This project is dedicated to 
 
 ## 📜 Table of Contents
 
-1. [🌟 Introduction](#-introduction)
-2. [🔧 Core Git Commands](#-core-git-commands)
-3. [🌳 Branching and Merging](#-branching-and-merging)
-4. [🚀 Advanced Git Concepts](#-advanced-git-concepts)
-5. [🎯 Best Practices](#-best-practices)
-6. [📚 Resources](#-resources)
-7. [🤝 Contributing](#-contributing)
+1. [Introduction](#-introduction)
+2. [Core Git Commands](#-core-git-commands)
+3. [Branching and Merging](#-branching-and-merging)
+4. [Advanced Git Concepts](#-advanced-git-concepts)
+5. [Best Practices](#-best-practices)
+6. [Resources](#-resources)
+7. [Contributing](#-contributing)
 
 ## 🌟 Introduction
 
