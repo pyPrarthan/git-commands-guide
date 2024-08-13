@@ -1,8 +1,6 @@
-# 🛠️ git-essentials
+# 🛠️ git-commands-guide 🛠️ 
 
 Welcome to the **git-essentials** repository! 🚀 This project is dedicated to mastering Git commands and concepts, inspired by the insightful YouTube video by Programming with Mosh. Whether you're new to Git or refining your version control skills, this repository is designed to be your ultimate guide. 💡
-
-![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
 ## 📜 Table of Contents
 
@@ -13,7 +11,6 @@ Welcome to the **git-essentials** repository! 🚀 This project is dedicated to 
 5. [🎯 Best Practices](#-best-practices)
 6. [📚 Resources](#-resources)
 7. [🤝 Contributing](#-contributing)
-8. [📜 License](#-license)
 
 ## 🌟 Introduction
 
@@ -67,6 +64,3 @@ Expand your knowledge of Git with these excellent resources:
 
 We welcome contributions! 🎉 If you’d like to contribute, please fork this repository, create a new branch, and submit a pull request with your changes. Let's collaborate to make this resource even more valuable! 🌟
 
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this code as per the terms of the license. 📄
